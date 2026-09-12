@@ -37,6 +37,8 @@ print("=" * 70)
 # ============================================================
 
 df = pd.read_csv('student_depression.csv')
+# Strip whitespace from column names
+df.columns = df.columns.str.strip()
 
 print(f"\n📊 Data loaded: {df.shape[0]} rows, {df.shape[1]} columns")
 
