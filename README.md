@@ -51,6 +51,14 @@ I built this project to explore a question that matters to me: what actually pre
 
 ---
 
+## Visualisations
+
+### Exploratory Data Analysis
+![EDA Visualisations](mental_health_eda.png)
+
+### Feature Importance
+![Feature Importance](feature_importance.png)
+
 # Skills demonstrated 
 
 Python (pandas, scikit-learn, XGBoost)
@@ -62,6 +70,7 @@ Data visualisation
 Model interpretation
 Git/GitHub workflow
 
+---
 
 ## Connect
 
