@@ -68,5 +68,11 @@ Git/GitHub workflow
 GitHub: github.com/eleanor-analytics
 LinkedIn: linkedin.com/in/eleanor-bryan-35b922255
 
+## How to Run
+
+```bash
+pip install -r requirements.txt
+python main.py
+
 
 
