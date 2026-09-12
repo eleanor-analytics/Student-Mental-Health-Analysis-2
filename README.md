@@ -61,7 +61,9 @@ Cross-validation
 Data visualisation
 Model interpretation
 Git/GitHub workflow
-Connect
+
+
+## Connect
 
 GitHub: github.com/eleanor-analytics
 LinkedIn: linkedin.com/in/eleanor-bryan-35b922255
