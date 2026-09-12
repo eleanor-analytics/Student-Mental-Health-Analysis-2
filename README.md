@@ -72,6 +72,14 @@ Git/GitHub workflow
 
 ---
 
+## Model Files
+
+The trained model and scaler are saved in the `models/` folder:
+
+- `student_depression_model.pkl` – Tuned XGBoost model
+- `scaler.pkl` – Feature scaler
+
+
 ## Connect
 
 GitHub: github.com/eleanor-analytics
